@@ -1,0 +1,4 @@
+- 01-rag-chatbot
+- 04-imbedding-search,
+- 06-text-to-json
+- 07-text-to-csv
